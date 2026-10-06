@@ -1,0 +1,4 @@
+node_modules/
+
+# Created by setup.mjs — Git on Windows cannot track `con` (reserved device name).
+pkg/con/

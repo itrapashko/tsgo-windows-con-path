@@ -1,0 +1,10 @@
+{
+  "name": "repro-pkg",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.d.ts"
+    }
+  }
+}
